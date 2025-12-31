@@ -134,7 +134,9 @@ MIT License - Feel free to use, modify, and distribute
 - [ ] All files on GitHub
 - [ ] README visible on repo
 
----
+
+
 
 **Happy chatting! 🎉 Your Medical Chatbot is ready to help!**
+
 
